@@ -80,7 +80,7 @@ Contributions are welcome! Please follow these steps:
 ---
 
 ### Contact
-For any queries or suggestions, reach out at [your-email@example.com](miss.palakjian04@gmail.com).
+For any queries or suggestions, reach out at [miss.palakjian04@gmail.com](miss.palakjian04@gmail.com).
 
 ---
 

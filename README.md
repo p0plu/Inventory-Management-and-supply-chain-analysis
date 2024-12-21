@@ -41,8 +41,12 @@ The **Inventory Management System and supply chain analysis** is a comprehensive
 ## How It Works
 1. **Data Collection**: Import inventory and sales data into the system.
 2. **Analysis**: Use built-in analytics tools to examine stock levels, trends, and reorder points.
+![Initial_dashboard](https://github.com/user-attachments/assets/bf3b13ea-9b2b-46d8-a18a-7e0c18ea4c3b)
+
 3. **Forecasting**: Predict demand using machine learning models for optimal inventory planning.
 4. **Optimization**: Implement strategies to minimize holding costs and avoid stockouts.
+![Optimized_dashboard](https://github.com/user-attachments/assets/61382cf1-bdc6-4a54-9d0c-23c6c1f22ebc)
+
 5. **Reporting**: Generate reports to identify areas of improvement in the supply chain.
 
 ## Use Cases
